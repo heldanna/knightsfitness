@@ -1,2 +1,2 @@
-# knightsfitness
-Knights Fitness Tracker created for CIS 4004
+# Knights Fitness Tracker
+Created for CIS 4004
