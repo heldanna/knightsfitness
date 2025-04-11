@@ -1,5 +1,5 @@
 # Knights Fitness Tracker
-Created for CIS 4004.
+Created for CIS 4004 Web-Based IT.
 
 Our project is hosted on the web using the service InfinityFree, so the only step that is necessary to access it is clicking on the link in the right sidebar, which directs you to [cisfitnessapp.ct.ws](cisfitnessapp.ct.ws).
 
